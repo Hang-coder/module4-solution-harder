@@ -34,9 +34,6 @@ WARNING!!! WARNING!!!
 // See Lecture 52, part 2
 // (Note, Step 2 will be done in the SpeakHello.js file.)
 
-(function () {
-  var x = "Hello!!";  // I will invoke myself
-})();
 
 (function () {
 
